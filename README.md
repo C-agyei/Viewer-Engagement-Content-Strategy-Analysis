@@ -7,6 +7,9 @@ This project analyses viewer engagement, retention patterns and content performa
 
 The analysis examines viewing activity, subscriber behaviour, content preferences, repeat viewing, completion patterns and genre performance to identify opportunities for improving viewer engagement and supporting strategic content decisions.
 
+## Dashboard Preview
+
+![Viewer Engagement Dashboard](01-Viewer%20Engagement%20Dashboard.png)
 ## Business Objective
 The project was designed to evaluate viewer behaviour and content performance in order to:
 
